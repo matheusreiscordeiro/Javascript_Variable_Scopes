@@ -10,7 +10,7 @@ Aqui estão alguns exemplos de como o escopo funciona em JavaScript:
 
 <br/>
 
-> ***Global**:
+> **Global**:
 
 <br/>
 
